@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561219451867",
+    "project_id": "ktfirebasechatapp",
+    "storage_bucket": "ktfirebasechatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561219451867:android:072802c13082114d1c85fe",
+        "android_client_info": {
+          "package_name": "com.example.ktfirebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561219451867-5kbu1sj055pbv7r9do84eameh9me378m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ktfirebasechatapp",
+            "certificate_hash": "e2df4677ecc5986211f07a8f02d3c43543998e94"
+          }
+        },
+        {
+          "client_id": "561219451867-626dnprkrgprntk8p7f2aerv0d5mpmuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_UmsJ9OM6XPb0uWLHPsj9k-F7WEagqRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561219451867-626dnprkrgprntk8p7f2aerv0d5mpmuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
